@@ -15,3 +15,6 @@
       - openpyxl, seaborn을 통해 전처리된 데이터를 다양한 포맷으로 표현합니다.
   - **GUI Development**
       - 유저가 사용하기 편리한 GUI 인터페이스의 필요성, 그리고 PyQt를 통해 기본 디자인을 학습합니다.
+
+# 프로젝트 예시
+![과제예시](https://user-images.githubusercontent.com/47409372/178304899-5045b657-f220-42d1-9f4e-3e582885e73d.png)
