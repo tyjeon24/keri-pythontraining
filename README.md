@@ -16,8 +16,15 @@
   - **GUI Development**
       - 유저가 사용하기 편리한 GUI 인터페이스의 필요성, 그리고 PyQt를 통해 기본 디자인을 학습합니다.
 
-# 프로젝트 예시
+# 활용 데이터 목록
+1. [seaborn 데이터셋](https://github.com/mwaskom/seaborn-data)
+2. [경상남도 창원시_교통량](https://www.data.go.kr/data/15063931/fileData.do)
+3. [경상남도 창원시_공공와이파이](https://www.data.go.kr/data/15074279/fileData.do)
+4. [경상남도 창원시_읍면동 행정동별 인구(1세 단위)](https://bigdata.gyeongnam.go.kr/index.gn?menuCd=DOM_000000114002001000&publicdatapk=15004972)
+5. [대기오염_PM10_통계 현황](https://bigdata.changwon.go.kr/portal/dataset/datasetView.do?seq=307)
+6. [경상남도 창원시_누비자 터미널](https://www.data.go.kr/data/15000545/fileData.do)
 
+# 프로젝트 예시
 ## 1. 2020, 2021년 창원시 교통량 분석
 ![image](https://user-images.githubusercontent.com/47409372/178305480-03ac667f-03b2-4f90-92db-d2d38da419a3.png)
 
@@ -27,5 +34,5 @@
 ## 3. 2021년 창원시 와이파이 설치 지역 시각화
 ![과제예시](https://user-images.githubusercontent.com/47409372/178304899-5045b657-f220-42d1-9f4e-3e582885e73d.png)
 
-## 4. 인터티브 데이터 - 2022년 상반기 미세먼지 현황 시각화
+## 4. 인터랙티브 데이터 - 2022년 상반기 미세먼지 현황 시각화
 ![folium](https://user-images.githubusercontent.com/47409372/178927095-a5c5607a-00c7-4b92-874a-aae88d531a9d.gif)
