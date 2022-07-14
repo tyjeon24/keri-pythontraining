@@ -24,7 +24,7 @@
 ## 2. scatterplot
 ![image](https://user-images.githubusercontent.com/47409372/178305134-45679913-2583-4a0a-bca6-801782f18762.png)
 
-## 3. 2021년 창원시 인구 분포 시각화
+## 3. 2021년 창원시 와이파이 설치 지역 시각화
 ![과제예시](https://user-images.githubusercontent.com/47409372/178304899-5045b657-f220-42d1-9f4e-3e582885e73d.png)
 
 ## 4. 인터렉티브 데이터 - 2022년 상반기 미세먼지 현황 시각화
