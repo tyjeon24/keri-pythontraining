@@ -17,7 +17,15 @@
       - 유저가 사용하기 편리한 GUI 인터페이스의 필요성, 그리고 PyQt를 통해 기본 디자인을 학습합니다.
 
 # 프로젝트 예시
+
+## 1. 2020, 2021년 창원시 교통량 분석
 ![image](https://user-images.githubusercontent.com/47409372/178305480-03ac667f-03b2-4f90-92db-d2d38da419a3.png)
+
+## 2. scatterplot
 ![image](https://user-images.githubusercontent.com/47409372/178305134-45679913-2583-4a0a-bca6-801782f18762.png)
+
+## 3. 2021년 창원시 인구 분포 시각화
 ![과제예시](https://user-images.githubusercontent.com/47409372/178304899-5045b657-f220-42d1-9f4e-3e582885e73d.png)
+
+## 4. 인터렉티브 데이터 - 2022년 상반기 미세먼지 현황 시각화
 ![folium](https://user-images.githubusercontent.com/47409372/178927095-a5c5607a-00c7-4b92-874a-aae88d531a9d.gif)
