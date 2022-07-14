@@ -27,5 +27,5 @@
 ## 3. 2021년 창원시 와이파이 설치 지역 시각화
 ![과제예시](https://user-images.githubusercontent.com/47409372/178304899-5045b657-f220-42d1-9f4e-3e582885e73d.png)
 
-## 4. 인터렉티브 데이터 - 2022년 상반기 미세먼지 현황 시각화
+## 4. 인터티브 데이터 - 2022년 상반기 미세먼지 현황 시각화
 ![folium](https://user-images.githubusercontent.com/47409372/178927095-a5c5607a-00c7-4b92-874a-aae88d531a9d.gif)
