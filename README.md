@@ -1,5 +1,8 @@
 # keri-pythontraining
 
+* 기여자 : 전태용  
+* 이메일 : gnradio3@gmail.com
+
 # 이건 무슨 프로젝트인가요?
 
 - 한국전기연구원 KERI 실습 훈련 과정에 사용되는 다양한 자료를 제공하는 프로젝트입니다.
